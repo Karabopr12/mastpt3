@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
   menuItem: {
     marginBottom: 20,
     padding: 10,
-    backgroundColor: '#f9f9f9',  
+    backgroundColor: 'blue',  
     borderRadius: 5,
     shadowColor: '#000',
     shadowOpacity: 0.2,
